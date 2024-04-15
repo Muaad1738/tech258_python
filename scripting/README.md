@@ -8,13 +8,13 @@ Scripting involves writing small programs for specific tasks. Programming involv
 ## Python Standard Library Packages
 
 - **Random Module**
-  ```
+  ``` python
   import random
   print(random.randint(1, 10))
   print(num)
   
 - **Date/Time Module**
-  ```
+  ```python
   import datetime
   now = datetime.datetime.now()
   print(now)
