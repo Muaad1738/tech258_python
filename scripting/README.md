@@ -29,7 +29,11 @@ Scripting involves writing small programs for specific tasks. Programming involv
 5. **Deploy Applications To Servers**
 6. **Making Logs And Reports**
 7. **Managing Cloud Resources**
-8. 
+8. **Monitoring**
+9. **Security Scanning** 
+10. **Deploying Applications To Servers** 
+
+
 
   
 
