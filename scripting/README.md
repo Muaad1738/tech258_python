@@ -21,7 +21,7 @@ Scripting involves writing small programs for specific tasks. Programming involv
 
 1. **Query a database**
 2. **Automate testing**
-3. **Manage Cloud Resources:**
-4. **Automate Backups:**
+3. **Manage Cloud Resources**
+4. **Automate Backups**
 5. 
 
