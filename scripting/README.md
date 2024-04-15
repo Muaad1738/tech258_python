@@ -12,16 +12,24 @@ Scripting involves writing small programs for specific tasks. Programming involv
   import random
   print(random.randint(1, 10))
   print(num)
-- ** Date/Time Module**
+  
+- **Date/Time Module**
   ```
   import datetime
   now = datetime.datetime.now()
-  print(now) 
-## 10 Python scripts a DevOps engineer may use/create
+  print(now)
+ 
+ 
+- ## 10 Python scripts a DevOps engineer may use/create
 
-1. **Query a database**
-2. **Automate testing**
+1. **Query A Database**
+2. **Automate Testing**
 3. **Manage Cloud Resources**
 4. **Automate Backups**
-5. 
+5. **Deploy Applications To Servers**
+6. **Making Logs And Reports**
+7. **Managing Cloud Resources**
+8. 
+
+  
 
